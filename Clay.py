@@ -191,7 +191,7 @@ def banner():
  | |_ / /_\ \ /  \/| |__ | |_/ /| | | || | | | |/ /     |  |   Source Code Alvino [bold green]
  |  _||  _  | |    |  __|| ___ \| | | || | | |    \     |  |   Update CLAOUPY [bold red]
  | |  | | | | \__/\| |___| |_/ /\ \_/ /\ \_/ / |\  \    |  |   V2.8 [bold yellow]
- \_|  \_| |_/\____/\____/\____/  \___/  \___/\_| \_/ Penambahan Dump file oleh Hendrian Setyawan  , KEYBOARD WARRIOR                                                                                          
+ \_|  \_| |_/\____/\____/\____/  \___/  \___/\_| \_/ HALLO  WORLD WELLCOME TO HACKING FACEBOOK•CYBER ANYMOUS INDONESIA                                                                                      
              """,width=90,title=f"Banner",style=f"bold white"))
 #--------------------[ BAGIAN-MASUK ]--------------#
 def login123():
