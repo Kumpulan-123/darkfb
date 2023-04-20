@@ -1961,9 +1961,9 @@ def scarpping_ua():
         if response.status_code == 200:
             uascrap.append(response.json()['ua'])
         else:
-            uascrap.append("Mozilla/5.0 (Linux; Android 9; CLAOUPY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36")
+            uascrap.append("Mozilla/5.0 (Linux; Android ; V2042) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36")
     except requests.exceptions.ConnectionError:
-        uascrap.append("Mozilla/5.0 (Linux; Android 9; CLAOUPY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36")
+        uascrap.append("Mozilla/5.0 (Linux; Android ; CPH1853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36")
 
 #-----------------------[ SYSTEM-CONTROL ]--------------------#
 if __name__=='__main__':
