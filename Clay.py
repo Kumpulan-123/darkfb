@@ -102,7 +102,7 @@ for x in range(10):
 	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	g=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	h=random.randrange(1, 9)
-	i='Linux; Android 7.1.2; Redmi 4A)'
+	i='Linux; Android 7.1.2; vivo 2010)'
 	j=random.randrange(1, 9)
 	k=random.randrange(1, 9)
 	l='Mobile Safari/NRD90M'
@@ -131,7 +131,7 @@ try:
 	color_text = file_color.split("|")[0]
 	color_panel = file_color.split("|")[1]
 except:
-	color_text = "[#00C8FF]"
+	color_text = "[#FF0000]"
 	color_panel = "#00C8FF"
 #------------[ INDICATION ]---------------#
 id,id2,loop,ok,cp,akun,oprek,lisensiku,tokenku,uid,lisensikuni= [],[],0,0,0,[],[],[],[],[],[]
@@ -157,7 +157,7 @@ U = '\x1b[1;95m'
 O = '\x1b[1;96m'
 N = '\x1b[0m'    
 Z = "\033[1;30m"
-sir = '\033[41m\x1b[1;97m'
+sir = '\033[41m\x1b[1;96m'
 x = '\33[m' # DEFAULT
 m = '\x1b[1;91m' #RED +
 k = '\033[93m' # KUNING +
