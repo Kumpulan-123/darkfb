@@ -105,7 +105,7 @@ for x in range(10):
 	i='Linux; Android 7.1.2; Redmi 4A)'
 	j=random.randrange(1, 9)
 	k=random.randrange(1, 9)
-	l='Mobile Safari/E7FBAF'
+	l='Mobile Safari/NRD90M'
 	uak=f'{a}{b}/{c}{d}{e}{f}{g}{h}{i}{j}.{k} {l}'
 def uaku():
 	try:
