@@ -187,11 +187,11 @@ def back():
 def banner():
 	cetak(panel(f"""
  ______ ___  _____  ___________  _____  _____ _   __ 
- |  ___/ _ \/  __ \|  ___| ___ \|  _  ||  _  | | / /
- | |_ / /_\ \ /  \/| |__ | |_/ /| | | || | | | |/ /     |  |   Source Code Alvino [bold green]
+ |  ___/ _ \/  __ \|  ___| ___ \|  _  ||  _  | | / / [bold red]
+ | |_ / /_\ \ /  \/| |__ | |_/ /| | | || | | | |/ /     |  |   Source Code Alvino [bold red]
  |  _||  _  | |    |  __|| ___ \| | | || | | |    \     |  |   Update CLAOUPY [bold red]
- | |  | | | | \__/\| |___| |_/ /\ \_/ /\ \_/ / |\  \    |  |   V2.8 [bold yellow]
- \_|  \_| |_/\____/\____/\____/  \___/  \___/\_| \_/ HALLO  WORLD WELLCOME TO HACKING FACEBOOK•CYBER ANYMOUS INDONESIA                                                                                      
+ | |  | | | | \__/\| |___| |_/ /\ \_/ /\ \_/ / |\  \    |  |   V2.8 [bold white]
+ \_|  \_| |_/\____/\____/\____/  \___/  \___/\_| \_/ HALLO  WORLD WELLCOME TO HACKING FACEBOOK•CYBER ANYMOUS INDONESIA   [bold white]                                                                               
              """,width=90,title=f"Banner",style=f"bold white"))
 #--------------------[ BAGIAN-MASUK ]--------------#
 def login123():
